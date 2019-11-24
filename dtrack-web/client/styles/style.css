@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Datalegreya-Thin;
+  src: url("fonts/Datalegreya-Thin.otf") format("opentype");
+}
+
+@font-face {
+  font-family: BloggerSans-Light;
+  src: url("fonts/Blogger Sans-Light.otf") format("opentype");
+}
+
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#app {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh
+}

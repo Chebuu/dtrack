@@ -1,0 +1,1 @@
+// https://github.com/smart-table/smart-table-react
